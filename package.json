@@ -1,0 +1,7 @@
+{
+    "name": "organizer",
+    "bin": "app.js",
+    "target": [
+        "latest"
+    ]
+}
