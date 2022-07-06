@@ -5,8 +5,8 @@ all code was made in JavaScript
 # 
 
 ## Donwloads 
-[rar download ](./organizer-win.rar) </br>
-[exe download ](./organizer-win.exe)
+[rar download ](https://github.com/Guilherme-Cabral/downloadOrganizer/raw/master/organizer-win.rar) </br>
+[exe download ](https://github.com/Guilherme-Cabral/downloadOrganizer/raw/master/organizer-win.exe)
 
 
 ### pastes created and your extensions :
